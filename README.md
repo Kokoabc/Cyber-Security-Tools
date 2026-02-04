@@ -13,6 +13,6 @@ This script monitors system logs (`server_logs.txt`) and identifies critical sec
 - **Scalable:** Built as a foundation for future Machine Learning integration.
 
 ## Setup
-1. Clone the repo: `git clone `
+1. Clone the repo: `git clone https://github.com/Kokoabc/Cyber-Security-Tools.git`
 2. Run the script: `python watchdog.py`
 3. Add entries to `server_logs.txt` to trigger alerts.
